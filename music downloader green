@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "id": "migrate-2026-09",
+  "title": "Demus has moved",
+  "message": "We've launched a brand-new app. Continue there to keep listening.",
+  "image_url": "https://lh3.googleusercontent.com/2qaf5_0DnINNbIiWRPrq9szUmc0vjYn3jsQXy_Ze-s3rplGr_4HzysDT0nZBri4aXVC168yHXm7nCisvud-uz6w=h210",
+  "dismissible": true,
+  "buttons": [
+    { "label": "Get the new app", "action": "open_url", "url": "https://play.google.com/store/apps/details?id=.." },
+    { "label": "Not now", "action": "dismiss" }
+  ],
+  "min_version": "",
+  "max_version": "",
+  "platforms": ["android"]
+}
