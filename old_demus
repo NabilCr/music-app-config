@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "id": "migrate-2026-09",
-  "title": "App has moved",
+  "title": "Demus has moved",
   "message": "We've launched a brand-new app. Continue there to keep listening.",
   "image_url": "https://lh3.googleusercontent.com/RTNW0F5CkVljQUkXaYuiB7a0Id_odGe6hRKO6YJPYkTynnvk_gP0plLbbqDpdHrPP3X4JOHeZgDxN9EiWjE3cw=h105",
   "dismissible": true,
